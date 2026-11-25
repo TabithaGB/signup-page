@@ -15,3 +15,10 @@ h1 {
 h2 {
     color:dodgerblue;
 }
+
+.box {
+    margin: 40px 0;
+    border: 3px dashed darkgreen;
+    padding: 60px;
+    background-color: aliceblue;
+}
